@@ -8,6 +8,7 @@ I am Orest and I am Junior Data Analyst. I have 5 years' experience in the digit
 
 **My Technical Skills:** SQL (BigQuery, MySQL, TablePlus), Google Sheets / Exel, posit.cloud (R Programming), Tableau, Jira, Trello, Querio
 
+This repository is used to demonstrate my skills, share my projects, and track my progress in Data Analytics.
 
 ## Bellabeat Project
 **Statement of the Business Task:**
