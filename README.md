@@ -40,6 +40,38 @@ These SQL commands will ensure that all datasets are free of missing values befo
 ### Data Cleaning Process
 
 **Code:** [Bellabeat SQL Data Cleaning.sql](https://github.com/orestdubeniuk/Data-Analysis-Portfolio/blob/main/Bellabeat%20SQL%20Data%20Cleaning.sql)
+***
+### SQL Data Summary
+
+SQL Data Summary with Joins and Correcting DateTime:
+
+**Code:** [Bellabeat SQL Data Summary.sql](https://github.com/orestdubeniuk/Data-Analysis-Portfolio/blob/main/Bellabeat%20SQL%20Data%20Summary.sql)
+
+**Examples result:**
+
+<img width="1296" alt="Screenshot 2024-06-19 at 17 27 53" src="https://github.com/orestdubeniuk/Data-Analysis-Portfolio/assets/173065503/6648bd1b-e446-42f0-abbc-3917d9b2d736">
+
+<img width="1388" alt="Screenshot 2024-06-21 at 14 15 26" src="https://github.com/orestdubeniuk/Data-Analysis-Portfolio/assets/173065503/ebc02509-b151-46ee-8859-68bb20734a45">
+
+***
+### Visualisation with posit.cloud (R Programming)
+
+**Code:** [Visualisation with R Programming.R](https://github.com/orestdubeniuk/Data-Analysis-Portfolio/blob/main/Visualisation%20with%20R%20Programming.R)
+
+**Example result:** hourly_steps_hourly_calories data provides a visual representation of the average number of steps taken and the average number of calories burned per hour throughout the day.
+
+![average_hourly_steps_calories](https://github.com/orestdubeniuk/Data-Analysis-Portfolio/assets/173065503/ea351662-aaca-43eb-9e6a-e9bd06fe5ca3)
+
+***
+**Insights:**
+
+1. **Peak Activity Periods:** Users show higher activity levels during morning and evening hours. Marketing strategies can target these peak times with motivational messages and reminders.
+2. **Heart Rate Insights:** There are significant fluctuations in heart rate throughout the day, suggesting opportunities for personalised fitness plans and stress management programs.
+3. **Sleep Patterns:** Many users have irregular sleep patterns, indicating a need for features that promote better sleep hygiene and routines.
+4. **Weight Management:** Consistent tracking of weight and BMI suggests users are engaged with fitness goals. Tailored content on nutrition and exercise could enhance user experience.
+
+
+
 
 
 
