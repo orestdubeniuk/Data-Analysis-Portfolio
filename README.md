@@ -6,7 +6,7 @@ Hello GitHub community, I hope you and your loved ones are doing well 🫂
 
 I am Orest and I am Junior Data Analyst. I have 5 years' experience in the digital field, most recently in a Software Testing position. With my expertise in digital, IT and Data Analysis, I can help make your project not only high-quality but also commercially successful. 
 
-**My Technical Skills:** SQL (BigQuery, MySQL, TablePlus), Google Sheets / Exel, posit.cloud (R Programming), Tableau, Jira, Trello, Querio
+**My Technical Skills:** SQL (BigQuery, MySQL, TablePlus), Google Sheets / Exel, posit.cloud (R Programming), Tableau, Jira, Trello, Querio, Segment
 
 This repository is used to demonstrate my skills, share my projects, and track my progress in Data Analytics.
 
