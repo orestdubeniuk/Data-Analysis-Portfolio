@@ -33,3 +33,13 @@ The data for this analysis comes from the [**FitBit Fitness Tracker Data**](http
 
 These SQL commands will ensure that all datasets are free of missing values before proceeding with the analysis and rename the table names for more convenient use of the code.
 
+**Code:** [Bellabeat SQL Preparation.sql](https://github.com/orestdubeniuk/Data-Analysis-Portfolio/blob/main/Bellabeat%20SQL%20Preparation.sql)
+
+***
+
+### Data Cleaning Process
+
+**Code:** [Bellabeat SQL Data Cleaning.sql](https://github.com/orestdubeniuk/Data-Analysis-Portfolio/blob/main/Bellabeat%20SQL%20Data%20Cleaning.sql)
+
+
+
