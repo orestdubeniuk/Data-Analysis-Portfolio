@@ -25,6 +25,7 @@ ggplot(hourly_steps_hourly_calories, aes(x = Hour)) +
 
 --
 
+# daily_act_hourly_steps data provides a visual representation of the average number of steps taken per hour for each day
 # Load necessary libraries
 library(tidyverse)
 library(lubridate)
